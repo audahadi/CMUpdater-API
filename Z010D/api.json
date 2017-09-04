@@ -1,16 +1,12 @@
 {
- "id": null,
- "result": [
+  "response": [
     {
-    "url": "http://tx2.androidfilehost.com/dl/dO4L9Q91YSdStkRWMQx6nA/1482658470/745425885120695069/cm-14.1-20161222-UNOFFICIAL-audahadi-Z010D.zip",
-    "timestamp": "1482414568",
-    "api_level": "24",
-    "md5sum": "bd8492b6fd07392d0bbccc0d2f082bcb",
-    "filename": "cm-14.1-20161222-UNOFFICIAL-audahadi-Z010D.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-  ],
- "error": null
+      "filename": "lineage-14.1-20170906-UNOFFICIAL-Z010D.zip",
+      "url": "https://sourceforge.net/projects/android-rom-ota/files/LineageOS/Z010D/lineage-14.1-20170905-UNOFFICIAL-Z010D.zip/download",
+      "md5sum": "a50fef87e27552e9aaa390381d651c18",
+      "datetime": 1504588205,
+      "romtype": "unofficial",
+      "version": "14.1"
+    }
+  ]
 }
